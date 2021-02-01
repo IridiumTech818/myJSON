@@ -4,140 +4,159 @@
    "content":"Good News : Now enjoy ADFREE version for free UPDATE NOW",
    "date":"16/01/2021",
    "link":"https://play.google.com/store/apps/details?id=com.iridiumTech.gatecalculator",
-   "branch":"Pinned post"
+   "branch":"AdFree for all",
+   "pinned":"true"
  },
      {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1612158994/bug_pldlm2.png",
    "content":"Bug update:An update has been released.Please update to latest version",
    "date":"01/02/2021",
    "link":"https://play.google.com/store/apps/details?id=com.iridiumTech.gatecalculator",
-   "branch":"Sorry for the inconvenience"
+   "branch":"Sorry for the inconvenience",
+   "pinned":"true"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1612021885/cdac_uxna22.png",
    "content":"CDAC recruitment 2021 for project engineers - 100 vacancies .Check now ",
    "date":"30/01/2021",
    "link":"https://www.cdac.in/index.aspx?id=ca_AdvtPEPT_2021",
-   "branch":"CS"
+   "branch":"CS",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1611977548/rbi_cx1nzo.png",
    "content":"RBI Recruitment 2021 for Officers in Grade B- DR (General).270 vacancies",
    "date":"30/01/2021",
    "link":"https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3944",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390384/rinl_kr73eu.png",
    "content":"Vizag steel response sheet now available. You can challenge the questions/answers now",
    "date":"27/01/2021",
    "link":"http://rinlmtot.onlineregistrationform.org:8341/ObjectionTrackerPortalWeb/loginPage.jsp",
-   "branch":"CE,CH,EE,IN,ME,MN,MT"
+   "branch":"CE,CH,EE,IN,ME,MN,MT",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1611234104/cpcb_i456xr.png",
    "content":"CPCB recruitment (Scientist B) 2020: Revised Syllabus published.Click here to check",
    "date":"21/01/2021",
    "link":"https://cpcb.nic.in/more-recruitment-news/",
-   "branch":"CE,CH,ES,ME,MN"
+   "branch":"CE,CH,ES,ME,MN",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1608907772/nfl_nyj2st.png",
    "content":"National Fertilizers Ltd recruitment 2021 for Management trainees",
    "date":"19/01/2021",
    "link":"https://www.nationalfertilizers.com/images/pdf/career/noida/ADV-%20MT%20(TECH)%20-%202020.pdf",
-   "branch":"CE,CH,EC,EE,IN,ME"
+   "branch":"CE,CH,EC,EE,IN,ME",
+   "pinned":"false"
  },
      {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1595846939/gate2021_cdcyq0.png",
    "content":"GATE 2021: Video of exam day process for candidates. Watch it now",
    "date":"18/01/2021",
    "link":"https://www.youtube.com/watch?v=JHF10zifc0E&feature=youtu.be",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1595846939/gate2021_cdcyq0.png",
    "content":"GATE 2021 admit card is available from official website.Click here to check now",
    "date":"16/01/2021",
    "link":"https://gate.iitb.ac.in/index.php",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1595954348/aai_ynigm2.png",
    "content":"AAI Recruitment 2020-21 for Managers and Junior executives.Apply now",
    "date":"31/12/2020",
    "link":"https://cdn.digialm.com//per/g01/pub/852/EForms/image/ImageDocUpload/806/1116226537618823904658.pdf",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1609423331/goi_ij2yh6.png",
    "content":"IB ACIO 2020-21 Recruitment: 2000 Vacancies for Grade 2 and Executive Across India",
    "date":"31/12/2020",
    "link":"https://cdn.digialm.com//per/g01/pub/852/EForms/image/ImageDocUpload/806/111884419544685830203.pdf",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390398/isro_rliyhf.png",
    "content":"VSSC Recruitment 2020 for Scientist/Engineer SC. Last date 04 Jan 2021",
    "date":"30/12/2020",
    "link":"https://rmt.vssc.gov.in/RMT313C/ADVT/index.html",
-   "branch":"CH,Automobile,MT"
+   "branch":"CH,Automobile,MT",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1608907772/nfl_nyj2st.png",
    "content":"NFL recruitment for experienced Engineers (1 year). Apply now",
    "date":"25/12/2020",
    "link":"https://www.nationalfertilizers.com/images/pdf/career/noida/ADVERTISEMENT_EXPERIENCED%20TECHNICAL%20PROFESSIONAL-2020_en.pdf",
-   "branch":"CH,CE,EE,IN,ME"
+   "branch":"CH,CE,EE,IN,ME",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1595954348/aai_ynigm2.png",
    "content":"AAI Direct recruitment for the posts of managers and junior executives in various disciplines",
    "date":"28/11/2020",
    "link":"https://www.aai.aero/en/careers/recruitment",
-   "branch":"All branches"
+   "branch":"All branches",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390386/bel_lyakmw.png",
    "content":"BEL Recruitment for project engineers and Trainee engineers.Minimum 6 moths post qualification experience required",
    "date":"15/11/2020",
    "link":"https://bel-india.in/Documentviews.aspx?fileName=Web-AD-PE-TE-BG-Unit-11-11-2020.pdf",
-   "branch":"CE,CH,CS,EC,EE,ME"
+   "branch":"CE,CH,CS,EC,EE,ME",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1604898069/keltron_ucmp0d.png",
    "content":"KELTRON recruitment for Engineer trainee ,Total 50 posts available.Last date 25/11/2020",
    "date":"09/11/2020",
    "link":"https://legacy.megaexams.com/cmd/keltron/notification.pdf",
-   "branch":"CE,EC,EE,IN,ME"
+   "branch":"CE,EC,EE,IN,ME",
+   "pinned":"false"
  },
     {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1603636877/spmcil_rhe8sm.png",
-   
    "content":"SPMCIL recruitment for Assistant manager (R&D) through online test. No of vacancy 4",
    "date":"22/10/2020",
    "link":"https://www.spmcil.com/UploadDocument/Advertisement%20for%20the%20post%20of%20AM(Materials),HR%20,%20R%20and%20D%20and%20Legal.1801eb8d-1c4d-4022-876a-e3d474b1ee4c.pdf",
-   "branch":"CH,MT,ME,EE,EC"
+   "branch":"CH,MT,ME,EE,EC",
+   "pinned":"false"
  },
   {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390386/rcf_nbyq5j.png",
    "content":"RCFL recruitment 2020: Admit card available for management trainee online exam",
    "date":"22/10/2020",
    "link":"https://www.rcfltd.com/hrrecruitment/recruitment-1",
-   "branch":"CH,ME,EE,IN"
+   "branch":"CH,ME,EE,IN",
+   "pinned":"false"
  },
  {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390384/drdo_rjwkzg.png",
    "content":"DRDO Scholarship Scheme for Girls in Aerospace Engg / Aeronautical Engg / Space Engg & Rocketry / Avionics / Aircraft Engg",
    "date":"19/10/2020",
    "link":"https://drdo.gov.in/sites/default/files/whats_new_document/advt_ardb2020.pdf",
-   "branch":"AE"
+   "branch":"AE",
+   "pinned":"false"
  },
  {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1602567437/cpri_bdjezu.png",
    "content":"CPRI Bangalore through GATE 2019/2020 invites online application for the post of Engineering officer",
    "date":"13/10/2020",
    "link":"https://www.cpri.in/careers.html",
-   "branch":"CH,CE,EE,MT,CS"
+   "branch":"CH,CE,EE,MT,CS",
+   "pinned":"false"
  }
 ]
