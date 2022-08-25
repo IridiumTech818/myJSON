@@ -8,8 +8,16 @@
    "pinned":"true"
  },
     {
+   "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1594390402/cpcl_uur2hk.png",
+   "content":"CPCL recruitment for graduate engineer trainees through CBT",
+   "date":"25/08/2022",
+   "link":"https://cpcl.co.in/wp-content/uploads/2022/08/Advertisment-Officer-2022-Final.pdf",
+   "branch":"CH,CE,CS,EE,IN,ME,MT",
+   "pinned":"false"
+ },
+    {
    "icon":"https://res.cloudinary.com/dvkfkc1tt/image/upload/v1661405549/kiocl_cqt1zv.png",
-   "content":"KIOCL recruitment for graduate engineer trainees through GATE 2021/2022",
+   "content":"KIOCL recruitment for Engineers through GATE 2021/2022",
    "date":"25/08/2022",
    "link":"https://kioclltd.in/assets/uploads/job-file-1451062460.pdf",
    "branch":"CE,CS,EC,EE,IN,ME,MN,MT",
